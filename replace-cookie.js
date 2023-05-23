@@ -2,12 +2,13 @@
 
 // ==UserScript==
 // @name         替换x岛饼干为颜文字符号
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  将x岛的用户饼干根据对应关系替换为颜文字符号，如果你运气足够好说不定可以看到
-// @author       You
-// @match        https://www.nmbxd1.com/
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=codepen.io
+// @namespace    https://github.com/jerrywcy/cookie-kaomojinize
+// @version      1.0.0
+// @description  将x岛的用户饼干替换为颜文字符号
+// @author       jerrywcy
+// @license      MIT
+// @match        https://www.nmbxd1.com/*
+// @icon         https://www.nmbxd1.com/favicon.ico
 // @grant        none
 // ==/UserScript==
 const dict = [

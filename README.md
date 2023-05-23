@@ -28,4 +28,10 @@ As you can see, this repository consists of three scripts: `extract_character.py
 
 ### Usage
 
-Not released to TamperMonkey yet.
+Now available through [Tampermonkey](https://www.tampermonkey.net).
+
+1. Download [Tampermonkey](https://www.tampermonkey.net);
+
+2. Install script [here](https://greasyfork.org/zh-CN/scripts/466926-替换x岛饼干为颜文字符号);
+
+3. Enjoy it!
